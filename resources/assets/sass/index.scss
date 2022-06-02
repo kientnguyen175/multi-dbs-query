@@ -1,0 +1,20 @@
+.card-footer {
+    background-color: transparent;
+    border-top: 1px solid #dfdfdf !important;
+    textarea {
+        background-color: transparent !important;
+    }
+}
+.select2bs4 {
+    width: 100%;
+}
+.error-message, .required {
+    color: #ff0000;
+}
+#log {
+    height: 200px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 6px 12px;
+    overflow-y: scroll;
+}

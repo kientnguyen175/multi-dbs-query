@@ -1,0 +1,22 @@
+{
+  "name": "multi-db-query",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Kien Trung Nguyen <kient.nguyen175@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "admin-lte": "^3.1.0",
+    "angular": "angularjs#^1.8.2",
+    "angular-sanitize": "^1.8.2"
+  }
+}
